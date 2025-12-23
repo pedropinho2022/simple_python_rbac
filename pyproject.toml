@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "simple-python-rbac"
-version = "0.1.0"
+version = "0.2.0"
 authors = [
-  { name="Grayfados", email="author@example.com" },
+  { name="Pedro Pinho", email="pedrohsistemas@outlook.com" },
 ]
 description = "A simple, hierarchical Role-Based Access Control (RBAC) package for Python."
 license = {file = "LICENSE"}
@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/simple-python-rbac"
-"Bug Tracker" = "https://github.com/yourusername/simple-python-rbac/issues"
+"Homepage" = "https://github.com/pedropinho2022/simple-python-rbac"
+"Bug Tracker" = "https://github.com/pedropinho2022/simple-python-rbac/issues"

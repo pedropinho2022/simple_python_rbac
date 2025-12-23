@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+simple_python_rbac/__init__.py
+simple_python_rbac/core.py
+simple_python_rbac/exceptions.py
+simple_python_rbac/permissions.py
+simple_python_rbac.egg-info/PKG-INFO
+simple_python_rbac.egg-info/SOURCES.txt
+simple_python_rbac.egg-info/dependency_links.txt
+simple_python_rbac.egg-info/top_level.txt
+tests/test_rbac.py
