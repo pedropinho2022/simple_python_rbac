@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "simple-python-rbac"
-version = "0.2.0"
+version = "0.3.0"
 authors = [
   { name="Pedro Pinho", email="pedrohsistemas@outlook.com" },
 ]
