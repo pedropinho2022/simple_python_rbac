@@ -154,10 +154,10 @@ The package is thoroughly tested. Current coverage:
 
 | Module | Coverage |
 |--------|----------|
-| `simple_python_rbac/core.py` | 58% |
+| `simple_python_rbac/core.py` | 97% |
 | `simple_python_rbac/exceptions.py` | 100% |
-| `simple_python_rbac/permissions.py` | 21% |
-| **Total** | **70%** |
+| `simple_python_rbac/permissions.py` | 100% |
+| **Total** | **97%** |
 
 ## Running Tests
 

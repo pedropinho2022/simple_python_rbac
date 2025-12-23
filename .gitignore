@@ -1,0 +1,9 @@
+*.py[cod]
+*$py.class
+__pycache__/
+*.egg-info/
+.egg-info/
+dist/
+build/
+.coverage
+.output.txt
