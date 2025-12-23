@@ -24,8 +24,6 @@ Or from PyPI (once published):
 pip install simple-python-rbac
 ```
 
-> **Note**: While the package uses the modern `pyproject.toml` configuration, a minimal `setup.py` is included for compatibility with older tools and to facilitate editable installs (`pip install -e .`).
-
 ## Core Concepts
 
 ### 1. Defining Permissions
